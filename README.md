@@ -1,4 +1,3 @@
-------------------------------------------------------------------------
 English：
 This is the resource page for the mc172 survival server homepage.
 Here have the file for the mc172 Survival Server homepage.
